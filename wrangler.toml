@@ -1,1 +1,2 @@
-main = "postprocessing.html"
+name = "postprocessing"
+main = ".worker-long-butterfly-d6a4/postprocessing.html"
