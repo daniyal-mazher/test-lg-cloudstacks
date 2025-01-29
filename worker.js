@@ -1,4 +1,4 @@
-xport default {
+export default {
     async fetch(request) {
         return new Response(
             `<!DOCTYPE html>
